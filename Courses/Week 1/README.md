@@ -3,4 +3,4 @@
 
 A headphone case designed during the first week.
 
-![course-week1](img/course1.png)
+![course-week1](img/Course1.png)
