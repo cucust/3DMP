@@ -1,7 +1,6 @@
 # Final Project - Bear Coin Bank
 For my final project I've chosen to design a coin bank in the shape of a bear. The coins are inserted via a tray in the bear's hand, which then slide into the now-opened mouth after rotating the head. I have chosen to work on this design because of both it's usefulness in daily life and it's endearing appearance.
 
-*Reference image*
 ![ref-img](https://cdn.thingiverse.com/assets/51/0a/93/4a/2d/featured_preview_bear_4_3_001.jpg)
 
 
