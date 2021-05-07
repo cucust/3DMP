@@ -10,7 +10,7 @@ The mechanism can be divided into the following main components:
    - body
    - arms & tray
    - head
-   - eye
+   - eyes
    - bottom cap
 
 Rotating the head leads to the opening of the mouth and the upper rotation of the arm & tray, leading to the coin situated on the tray to fall inside the coin bank, which can be later retrieved by opening the cap situated on the bottom of the mechanism.
@@ -19,3 +19,5 @@ Rotating the head leads to the opening of the mouth and the upper rotation of th
 ### Checkpoints
 1. Checkpoint 1
    - Choosing the mechanism for the final project; dividing into components.
+2. Checkpoint 2
+   - Added the bear's body and bottom cap
