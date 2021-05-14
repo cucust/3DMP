@@ -21,3 +21,5 @@ Rotating the head leads to the opening of the mouth and the upper rotation of th
    - Choosing the mechanism for the final project; dividing into components.
 2. Checkpoint 2
    - Added the bear's body and bottom cap
+3. Checkpoint 3
+   - Added the hand, head and joints
