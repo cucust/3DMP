@@ -36,8 +36,14 @@ The main motion of the mechanism can be visualised by powering the head revolute
 ![frontright](renders/frontright.png)
 ![topdown](renders/topdown.png)
 ![mouthopen](renders/mouthopen.png)
-![facevideo](renders/facevideo.mp4)
-![awayvideo](renders/awayvideo.mp4)
+
+
+https://user-images.githubusercontent.com/38106401/119275553-756c3a80-bc1e-11eb-8108-41d5ad7abc8a.mp4
+
+
+https://user-images.githubusercontent.com/38106401/119275563-8157fc80-bc1e-11eb-98e9-be7c9d0152d7.mp4
+
+
 
 ### Files
    - gifs
